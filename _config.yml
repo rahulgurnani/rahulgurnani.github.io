@@ -57,7 +57,7 @@ plugins:
 
 author:
   name: "Rahul Gurnani"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/photo.jpg"
   bio: "Software Engineer"
   links:
     - label: "Twitter"
