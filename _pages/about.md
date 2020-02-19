@@ -3,4 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Curious Software Engineer. Always learning.
+Software Engineer. 
+Environmentalist. 
+Always learning.
