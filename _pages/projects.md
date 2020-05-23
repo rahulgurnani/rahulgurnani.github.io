@@ -6,7 +6,7 @@ author_profile: true
 
 ## [Inscribed Square](https://github.com/rahulgurnani/inscribed-square)
 ![image](/assets/images/inscribed_square.png)
-Draw a curve and this tool finds the inscribed square for the curve
+Draw a curve and [this tool](https://rahulgurnani.github.io/inscribed-square/) finds the inscribed square for the curve
 
 
 ## [Drive To Photos](https://github.com/rahulgurnani/google-drive-to-photos)
