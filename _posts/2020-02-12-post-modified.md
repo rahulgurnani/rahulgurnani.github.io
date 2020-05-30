@@ -7,10 +7,18 @@ tags:
   - flutter, design patterns
 ---
 
-This post is about my recent experiences of developing flutter app at current place of work. I found flutter very developer friendly and am impressed by the cross platform nature of the sdk (android, iOS, web even Desktop apps 😮).
+This post is about my recent experiences of developing flutter app at current place of work. I found flutter very developer friendly. Most impressive thing about it is the cross platform nature of the sdk (android, iOS, web and even Desktop apps 😮).
 
 In what follows, I share some patterns and practices that I find useful for development.
 
-### Widget Tree
+### Draw the Widget Tree
 
-I think drawing a widget tree, based on the mocks given by an UI designer should be the first step, before writing any code. This gives you an insight on the common components in the UI. If you are using the provider pattern, widget tree makes it easier for you to decide where will the provider for a state be initialized.
+In my humble opinion, drawing a widget tree, based on the UI wire-frames should be the first step, before writing any code. This gives you an insight on the common components that would be used in your app. If you are using the provider pattern, widget tree makes it easier for you to decide where will the provider for a state be initialized. It also helps you structure your code
+
+### Sketch out the BloCs
+
+As a developer, it's often good idea to think in terms of the UI as a function of state of the app. So, given a state of the app, it should be straightforward to derive what the UI would look like. This helps in writing effective tests for the code.
+
+### Coding
+
+### Project Structure
