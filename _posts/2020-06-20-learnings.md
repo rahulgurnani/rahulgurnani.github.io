@@ -23,7 +23,7 @@ Coding becomes easier once the design ready. You don't have to think too much be
 
 ### Leverage Concurrency
 
-Having more than one task to work on at any point in time keeps one working even if one of the task hits a blocker. Leverage this by working on at least 2 tasks to work on at any time. 
+Having more than one task to work on at any point in time keeps one working even if one of the task hits a blocker. Leverage this by having at least 2 tasks to work on at any time. 
 
 ### Ease the task of code reviewer
 
