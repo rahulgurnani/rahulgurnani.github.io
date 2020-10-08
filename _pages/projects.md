@@ -4,6 +4,11 @@ permalink: /projects/
 author_profile: true
 ---
 
+## [Surveyo](https://surveyo.one-click.cloud.dgraph.io/)
+Survey form app with a GraphQL endpoint to query responses
+Featured on [Product Hunt](https://www.producthunt.com/posts/surveyo)
+![image](/assets/images/surveyo.png)
+
 ## [Inscribed Square](https://github.com/rahulgurnani/inscribed-square)
 ![image](/assets/images/inscribed_square.png)
 Draw a curve and [this tool](https://rahulgurnani.github.io/inscribed-square/) finds the inscribed square for the curve
